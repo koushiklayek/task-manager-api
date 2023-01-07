@@ -3,3 +3,4 @@ config
 mongodb.js
 tests/math.test.js
 src/math.js
+tests/__mocks__
